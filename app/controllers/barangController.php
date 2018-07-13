@@ -59,7 +59,6 @@
 		public function edit($id)
 		{
 			$barang = $this->model('Barang')->edit($id);
-			return $this->create();
 			return $this->view('barang/edit', ['barang' => $barang]);
 		}
 
