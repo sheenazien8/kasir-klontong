@@ -1,0 +1,12 @@
+{
+    "name": "mini-framework/system-kasir",
+    "authors": [
+        {
+            "name": "sheenazien8",
+            "email": "sheenazien08@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^7.1"
+    }
+}
